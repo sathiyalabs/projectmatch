@@ -1,0 +1,8 @@
+{
+  "name": "ProjectMatch",
+  "description": "Don't just find a person. Find what the team is missing. ProjectMatch identifies capability gaps and finds the candidate who strengthens the team most.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
